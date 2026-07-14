@@ -1,1 +1,2 @@
-🍻 Quiebre estructural en el registro de libadores: Quito, enero 2022 – junio 2026:https://omscgr.github.io/Diagnostico-libadores/
+- 🍻 Quiebre estructural en el registro de libadores: Quito, enero 2022 – junio 2026:https://omscgr.github.io/Diagnostico-libadores/
+- 💻 Notebook: https://colab.research.google.com/drive/1gCxSXxMHIQmpQqzs2UNrKPlx4oDDFewe?usp=sharing
